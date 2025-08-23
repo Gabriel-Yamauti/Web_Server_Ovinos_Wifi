@@ -169,6 +169,8 @@ The primary output of the device is the `sensor_data.csv` file, which can be dow
 
 This project was developed by **Gabriel Yamauti Gerolamo** under the guidance of **Prof. Dr. Késia Oliveira da Silva-Miranda** as part of a Scientific Initiation research project at ESALQ/USP.
 
-The firmware and web interface were heavily inspired and adapted from the excellent tutorials provided by **Random Nerd Tutorials**:
+Special acknowledgements to **Prof. Magno do Nascimento Amorim** and **Rivaldo Geovane Miranda de Sousa** for their valuable collaboration and support throughout the project.
+
+The firmware and web interface were inspired and adapted from the excellent tutorials provided by **Random Nerd Tutorials**:
 -   [ESP32 Web Server with MPU-6050 Accelerometer and Gyroscope](https://randomnerdtutorials.com/esp32-mpu-6050-web-server/)
 -   [Install ESP8266 Filesystem Uploader in Arduino IDE 2 (LittleFS)](https://randomnerdtutorials.com/arduino-ide-2-install-esp8266-littlefs/)
